@@ -8,3 +8,7 @@ Week 5: Set up Python, VS Code, and the terminal. hello.py runs
 Week 6: Set up the project with uv and add pandas. check.py prints the pandas version.
 Week 7: analyse.py reads wards.csv, converts each area, and classifies each ward.
 Week 8: inspect_data.py summarises "X" and "Population" in my WorldPop_Population data.
+Week 9: Month 2 reflection
+I now know that there are cleaner ways to shape codes and still produce the desired output.
+I still can't properly interpret the codes line by line
+The outputs of summary.py tell me the average population per 100m by 100m square km of the study area
