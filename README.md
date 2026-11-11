@@ -13,3 +13,5 @@ Week 9: summary.py refactored inspect_data.py and still produced the same output
 I now know there are cleaner ways to shape codes while still producing the desired output.
 I still can't properly interpret the codes line by line
 The outputs of summary.py tell me the average population per 100m by 100m square km of the study area
+# Month 3: Geospatial Python and Automation 
+Week 10: Geopandas. Loaded, checked, joined and mapped Health facilities in Ibadan North in code
