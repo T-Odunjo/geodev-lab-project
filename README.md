@@ -14,4 +14,4 @@ I now know there are cleaner ways to shape codes while still producing the desir
 I still can't properly interpret the codes line by line
 The outputs of summary.py tell me the average population per 100m by 100m square km of the study area
 # Month 3: Geospatial Python and Automation 
-Week 10: Geopandas. Loaded, checked, joined and mapped Health facilities in Ibadan North in code
+Week 10: Geopandas. Loaded, checked, joined and mapped Population Distribution in New Bussa in code
