@@ -15,3 +15,4 @@ I still can't properly interpret the codes line by line
 The outputs of summary.py tell me the average population per 100m by 100m square km of the study area
 # Month 3: Geospatial Python and Automation 
 Week 10: Geopandas. Loaded, checked, joined and mapped Population Distribution in New Bussa in code
+Week 11: CRS and spatial operations. Reprojected to EPSG: 32631 and measured km2. I used this UTM zone because New Bussa falls within it. My justification for using ('sjoin_nearest') is due to the absence of existing waste disposal facility data, traditional coverage gap analysiswas unfeasible. The workflow was instead structured around infrastructure proximity and accessibility. NB_Building.gpkg has no invalid geometries. 
